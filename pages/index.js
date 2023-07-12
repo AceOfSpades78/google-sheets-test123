@@ -15,10 +15,7 @@ export default function Home() {
         <p className="description">
           GB Performance : Système Double Stimulation<code>pages/index.js</code>
         </p>
-        <iframe 
-          src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQhruFCVG80JiPbbyFhR8nXhExDx2nvGa64D5SwXbsO9ysxBEl8rZCRJCUukcVaMLMFsbxDyVknhcb1/pubhtml?gid=0&amp;single=true&amp;widget=false&amp;headers=false">
-          class="TEST"
-    </iframe>
+        <iframe class="iframe" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQhruFCVG80JiPbbyFhR8nXhExDx2nvGa64D5SwXbsO9ysxBEl8rZCRJCUukcVaMLMFsbxDyVknhcb1/pubhtml?gid=0&amp;single=true&amp;widget=false&amp;headers=false"></iframe>
     </main>
 
       <Footer />
