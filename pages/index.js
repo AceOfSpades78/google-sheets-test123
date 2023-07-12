@@ -13,10 +13,11 @@ export default function Home() {
       <main>
         <Header title="GB Performance!" />
         <p className="description">
-          Get started <code>pages/index.js</code>
+          GB Performance : Système Double Stimulation<code>pages/index.js</code>
         </p>
-        <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQhruFCVG80JiPbbyFhR8nXhExDx2nvGa64D5SwXbsO9ysxBEl8rZCRJCUukcVaMLMFsbxDyVknhcb1/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
-      </main>
+        <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQhruFCVG80JiPbbyFhR8nXhExDx2nvGa64D5SwXbsO9ysxBEl8rZCRJCUukcVaMLMFsbxDyVknhcb1/pubhtml?gid=0&amp;single=true&amp;widget=false&amp;headers=false" data-dashlane-frameid="718" style="width: 1200px;height: 1200px;"></iframe>
+     
+    </main>
 
       <Footer />
     </div>
