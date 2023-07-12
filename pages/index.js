@@ -12,10 +12,8 @@ export default function Home() {
 
       <main>
         <Header title="GB Performance!" />
-        <p className="description">
-        </p>
-    <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQhruFCVG80JiPbbyFhR8nXhExDx2nvGa64D5SwXbsO9ysxBEl8rZCRJCUukcVaMLMFsbxDyVknhcb1/pubhtml?widget=false&amp;headers=false&amp;range=A1:BT108&amp;chrome=false"></iframe>
-    
+        <p className="description"></p>
+        <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQCVz8QC3QjV_PQUMzyXGC_5b8zg7zgMuUptfwbfUg9z18OIeeOYE_qdpxbbpm3cz6th8Hf8Ze_yFLB/pubhtml?widget=false&amp;headers=false"></iframe>
     </main>
 
       <Footer />
