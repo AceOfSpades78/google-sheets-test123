@@ -27,8 +27,9 @@ code {
 }
 
 iframe {
-  with: 1200px;
-  margin: 900px;
+  width: 1200px;
+  height: 900px;
+  margin-top: 400px;
 }
 
 
